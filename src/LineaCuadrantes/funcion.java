@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -59,7 +59,7 @@ public class funcion {
     
     }//fin method
 }
-=======
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -120,4 +120,4 @@ public class funcion {
     
     }//fin method
 }
->>>>>>> 3ea05c40f59abc000eeba64719aba10155ee6d66
+
