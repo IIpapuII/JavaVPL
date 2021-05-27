@@ -1,4 +1,4 @@
-package com.mycompany.AyB;
+package mycompany.AyB;
     import java.util.Scanner;
 public class sumaEntreAyB {
     public static void main(String[] args) {
