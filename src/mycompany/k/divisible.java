@@ -1,4 +1,4 @@
-package com.mycompany.k;
+package mycompany.k;
     import java.util.Scanner;
 public class divisible {
     public static void main(String[] args) {

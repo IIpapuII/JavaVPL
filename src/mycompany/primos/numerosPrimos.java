@@ -1,4 +1,4 @@
-package com.mycompany.primos;
+package mycompany.primos;
     import java.util.Scanner;
 public class numerosPrimos {
     public static void main(String[] args) {

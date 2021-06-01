@@ -11,9 +11,7 @@ package Condicionales.ChessHorse;
  */
 public class control {
 
-    /**
-     * @param args the command line arguments
-     */
+    //presenta errores 
     public static void main(String [] args){
         //Crear la vista
         Consola c = new Consola();
