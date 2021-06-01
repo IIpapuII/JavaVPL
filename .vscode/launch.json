@@ -1,0 +1,329 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch control",
+            "request": "launch",
+            "mainClass": "CasaDeCambio.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(1)",
+            "request": "launch",
+            "mainClass": "Censo.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(2)",
+            "request": "launch",
+            "mainClass": "Condicionales.CasaCambio.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(3)",
+            "request": "launch",
+            "mainClass": "Condicionales.CensoIf.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(4)",
+            "request": "launch",
+            "mainClass": "Condicionales.ChessHorse.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(5)",
+            "request": "launch",
+            "mainClass": "Condicionales.DiaDeLaSemana.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch EdadPerro",
+            "request": "launch",
+            "mainClass": "Condicionales.EdadDelPerro.EdadPerro",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(6)",
+            "request": "launch",
+            "mainClass": "Condicionales.Horoscopo.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(7)",
+            "request": "launch",
+            "mainClass": "Condicionales.MainHowOldAreYou.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch credito",
+            "request": "launch",
+            "mainClass": "Credito.credito",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(8)",
+            "request": "launch",
+            "mainClass": "EcuacionCuadratica.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(9)",
+            "request": "launch",
+            "mainClass": "Faltantes.Nuevos2unidad.CalendarioLunar.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(10)",
+            "request": "launch",
+            "mainClass": "Faltantes.Nuevos2unidad.MayorMenorMedio.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(11)",
+            "request": "launch",
+            "mainClass": "Faltantes.Nuevos2unidad.Numerosbinarios.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(12)",
+            "request": "launch",
+            "mainClass": "HoraValida.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(13)",
+            "request": "launch",
+            "mainClass": "LineaCuadrantes.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(14)",
+            "request": "launch",
+            "mainClass": "Loteria.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(15)",
+            "request": "launch",
+            "mainClass": "PuntoCircunferencia.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(16)",
+            "request": "launch",
+            "mainClass": "PuntoRectangulo.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(17)",
+            "request": "launch",
+            "mainClass": "RelojRaroInteligente.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch reloinvertido",
+            "request": "launch",
+            "mainClass": "Relojinvertido.reloinvertido",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch Control",
+            "request": "launch",
+            "mainClass": "SegundoPrevio.Control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch servicios",
+            "request": "launch",
+            "mainClass": "Serviciospublicos.servicios",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(18)",
+            "request": "launch",
+            "mainClass": "TemperaturaTermometros.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(19)",
+            "request": "launch",
+            "mainClass": "TipoTrianguloSimple.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch contro",
+            "request": "launch",
+            "mainClass": "TrianduloComplejo.contro",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch Internet",
+            "request": "launch",
+            "mainClass": "Velocidadnet.Internet",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ascii",
+            "request": "launch",
+            "mainClass": "ascii.Ascii",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch kaprecar",
+            "request": "launch",
+            "mainClass": "ciclokaprecar.kaprecar",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(20)",
+            "request": "launch",
+            "mainClass": "circunferencias.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(21)",
+            "request": "launch",
+            "mainClass": "corona.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(22)",
+            "request": "launch",
+            "mainClass": "dosrectangulos.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch Despresiacion",
+            "request": "launch",
+            "mainClass": "ejercicio1.Despresiacion",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch producto",
+            "request": "launch",
+            "mainClass": "ejercicio1.producto",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumaEntreAyB",
+            "request": "launch",
+            "mainClass": "mycompany.AyB.sumaEntreAyB",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch capicua",
+            "request": "launch",
+            "mainClass": "mycompany.capicua.capicua",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch contadorDigitos",
+            "request": "launch",
+            "mainClass": "mycompany.contadorDigitos.contadorDigitos",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch divisible",
+            "request": "launch",
+            "mainClass": "mycompany.k.divisible",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch numerosPrimos",
+            "request": "launch",
+            "mainClass": "mycompany.primos.numerosPrimos",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch Math_pow",
+            "request": "launch",
+            "mainClass": "mycompany.scsc.Math_pow",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch nota",
+            "request": "launch",
+            "mainClass": "nota.nota",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch reloj",
+            "request": "launch",
+            "mainClass": "reloj.reloj",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(23)",
+            "request": "launch",
+            "mainClass": "rotacion.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch control(24)",
+            "request": "launch",
+            "mainClass": "tiempoDias.control",
+            "projectName": "VPLJAVA_aa45e336"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tienda",
+            "request": "launch",
+            "mainClass": "tienda.Tienda",
+            "projectName": "VPLJAVA_aa45e336"
+        }
+    ]
+}
