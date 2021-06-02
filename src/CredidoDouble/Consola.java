@@ -1,9 +1,5 @@
-package TrianduloComplejo;
+package CredidoDouble;
 
-import TipoTrianguloSimple.*;
-import TemperaturaTermometros.*;
-import Serviciospublicos.*;
-import Credito.*;
 
 import java.io.InputStreamReader;
 /**
